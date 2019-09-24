@@ -1,1 +1,4 @@
-# yu_j_week4review
+# This is review project in week4
+## We are learning such fun stuff!
+
+all about how to do workflow with git and github.. branches and commits and pushes oh my!
